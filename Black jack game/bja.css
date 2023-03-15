@@ -1,0 +1,30 @@
+body{
+	font-family: Arial;
+	background-image: url(images/dark-wood.jpg);
+	background-size: cover;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	
+}
+h1{
+	color: goldenrod;
+	
+}
+#message-el{
+	font-family: italic;
+	
+}
+button{
+	color: #016f32;
+	width: 150px;
+	background: goldenrod;
+	outline: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+	border-radius: 2px;
+	font-weight: bold;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
