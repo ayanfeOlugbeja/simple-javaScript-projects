@@ -9,9 +9,9 @@ Project 3: "Passenger counter app" - This is a simple implementation of a passen
 Project 4: "Simple calculator" - A basic calculator that performs basic arithmetic operations. <br />
 
 **Technologies Used**<br />
-*HTML <br />
-*CSS <br />
-*javaScript <br />
+* HTML <br />
+* CSS <br />
+* javaScript <br />
 
 **How to Use**<br />
 1 Clone the repository to your local machine. <br />
